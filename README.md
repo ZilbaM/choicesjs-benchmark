@@ -2,33 +2,13 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 
-__Global library rating :__
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="far fa-star"></i>
-<i class="far fa-star"></i>
+__Global library rating :__ 3/5
 
-- __Easy to use :__
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="far fa-star"></i>
+- __Easy to use :__ 4/5
 
-- __Performance :__
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="far fa-star"></i>
-<i class="far fa-star"></i>
-<i class="far fa-star"></i>
+- __Performance :__ 2/5
 
-- __Scalability on other medium (React, Vue, etc...) :__
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="fas fa-star"></i>
-<i class="far fa-star"></i>
-<i class="far fa-star"></i>
+- __Scalability on other medium (React, Vue, etc...) :__ 3/5
 
 ```npm install choices.js```
 
